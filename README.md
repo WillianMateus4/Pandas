@@ -36,7 +36,7 @@ Este projeto serviu para treinar as seguintes habilidades:
 
 1.  Baixe ou clone este repositório:
     ```bash
-    git clone [https://github.com/seu-usuario/nome-do-repo.git](https://github.com/seu-usuario/nome-do-repo.git)
+    git clone [[[https://github.com/seu-usuario/nome-do-repo.git](https://github.com/seu-usuario/nome-do-repo.git)](https://github.com/WillianMateus4/Pandas.git)](https://github.com/WillianMateus4/Pandas.git)
     ```
 2.  Instale as bibliotecas necessárias para o código funcionar:
     ```bash
